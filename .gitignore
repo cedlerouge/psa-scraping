@@ -1,0 +1,14 @@
+# vim
+*.swp
+*.swo
+
+# vscode
+.vscode
+
+# python 
+.venv
+__pycache__
+**/*.pyc
+
+# project
+settings.json
