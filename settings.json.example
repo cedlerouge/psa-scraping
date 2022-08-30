@@ -1,0 +1,9 @@
+{
+    "pwdns_site": "powerdns-admin.example.com",
+    "dns_domains": [
+        "domain1.tld",
+        "domain2.tld"
+    ],
+    "pwdns_username": "USERNAME",
+    "pwdns_password": "PASSWORD"
+}
