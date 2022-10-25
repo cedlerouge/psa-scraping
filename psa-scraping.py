@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 
+"""
+This script aims to list all entries
+of a dns name available via PowerDNS admin
+"""
+
 import json
 import requests
 from bs4 import BeautifulSoup
